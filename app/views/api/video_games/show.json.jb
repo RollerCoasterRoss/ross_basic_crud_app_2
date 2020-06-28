@@ -1,0 +1,1 @@
+render partial: 'video_game.json.jb', locals: {video_game:@video_game}

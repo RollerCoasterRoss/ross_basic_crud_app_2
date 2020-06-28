@@ -1,0 +1,11 @@
+{
+  id: video_game.id,
+  title: video_game.title,
+  genre: video_game.genre,
+  initial_release_date: video_game.initial_release_date,
+  rating: video_game.rating,
+  kid_friendly: video_game.kid_friendly,
+  formatted: {
+    initial_release_date: video_game.friendly_initial_release_date
+  }
+}
